@@ -62,12 +62,12 @@ To get this workflow up and running on your available computational resources, i
 
 - OUTCAR file.
 
-## 8. Table-Generator Inputs
+## 8. DB-Generator Inputs
 
 - **Imports tab**: Search_in_File variable should be set as vasp_results.yml and import this file using `AdvancedForEach/*/DFT-VASP/outputs/vasp_results.yml` command.
 - Search_Parameters: Set the variables `total_energy` and `title`.
 
-## 9. Table-Generator Outputs
+## 9. DB-Generator Outputs
 
 - Table-dict.yml containing the variables defined in the Search_Parameters field above, as shown in **Figure 1**.
 
