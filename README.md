@@ -16,7 +16,7 @@ as stability, gap energy, among others.
 
  ## Halide perovskites workflow with **_AdvancedFor_** loop control
 
-<img src="./Workflow.png" alt="DFT-Surface WaNo logo" width="100%"/>
+``![image text](https://gist.github.com/assets/140654266/a1d02125-8121-48a6-9bdb-5a99fe4494be)``
 
 **Figure 1** _This workflow aims to perform several DFT calculations of metal halide perovskites with vdW corrections. It is made from Mult-It, UnpackMol, DFT-VASP, and DB-Generator **WaNos** connected by the AdvancedFor loop control. In step 1, we generate the configurations containing different cations within the cboctahedral voids of MHP structure, represented in red. These were ; Steps 2, and 3 define the group of configurations and set the DFT calculation methods employed in the simulation. In the last step, DB-Generator **Wano** extracts the required variables of the output files from the previous steps. After this, the DFT-half is used to_
 
