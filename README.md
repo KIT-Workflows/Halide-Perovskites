@@ -1,5 +1,5 @@
 # Halide-Perovskites Workflow
-When publishing results obtained with SOD Workflow, please consider citing it.
+When publishing results obtained with Halide-Perovskites workflow, please consider citing it.
 
 # Colab
 * Colab notebook for data visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1asjGKK279q1IFtY9fSB4oAzEqh9cPdl8?usp=sharing)
