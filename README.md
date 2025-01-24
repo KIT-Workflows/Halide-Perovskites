@@ -6,7 +6,7 @@ When publishing results obtained with Halide-Perovskites workflow, please consid
 
 This notebook calculates the thermodynamic properties and statistical attributes from the ab initio calculations executed from the Alloys Workflow. Below, we'd like to describe the functions the actual version covers.
 
-# input_data Folder
+# input_data folder
 
 The `input_data` folder contains the **converged POSCAR and INCAR input files** for all the geometries and structures studied in this project.
 
