@@ -6,7 +6,14 @@ When publishing results obtained with Halide-Perovskites workflow, please consid
 
 This notebook calculates the thermodynamic properties and statistical attributes from the ab initio calculations executed from the Alloys Workflow. Below, we'd like to describe the functions the actual version covers.
 
+# input_data Folder
 
+The `input_data` folder contains the **converged POSCAR and INCAR input files** for all the geometries and structures studied in this project.
+
+- **POSCAR Files**: Represent the structures' optimized atomic positions and lattice parameters after convergence.
+- **INCAR Files**: Contain the parameters and settings used for the VASP calculations to ensure structural optimization and electronic convergence.
+
+This folder serves as a comprehensive archive of the critical inputs used to reproduce and validate the results of the computational simulations performed in this study.
 
 Assessment of Empirical and Semi-Empirical van der Waals Methods for Halide Perovskites into Density Functional Theory Approach.
 
