@@ -2,9 +2,9 @@
 When publishing results obtained with Halide-Perovskites workflow, please consider citing it.
 
 # Colab
-* Colab notebook for data visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1asjGKK279q1IFtY9fSB4oAzEqh9cPdl8?usp=sharing)
+* Colab notebook for data visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15NyTgjL0YmWqGlsjkcE7SGn8kc1nEjQt?usp=sharing)
 
-This notebook is used to compute the thermodynamic properties and statistical attributes from the ab initio calculations executed from the Alloys Workflow. Below, we describe the functions covered by the actual version.
+This notebook calculates the thermodynamic properties and statistical attributes from the ab initio calculations executed from the Alloys Workflow. Below, we'd like to describe the functions the actual version covers.
 
 
 
