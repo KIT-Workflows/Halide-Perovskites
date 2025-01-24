@@ -1,4 +1,13 @@
 # Halide-Perovskites Workflow
+When publishing results obtained with SOD Workflow, please consider citing it.
+
+# Colab
+* Colab notebook for data visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1asjGKK279q1IFtY9fSB4oAzEqh9cPdl8?usp=sharing)
+
+This notebook is used to compute the thermodynamic properties and statistical attributes from the ab initio calculations executed from the Alloys Workflow. Below, we describe the functions covered by the actual version.
+
+
+
 Assessment of Empirical and Semi-Empirical van der Waals Methods for Halide Perovskites into Density Functional Theory Approach.
 
 In this workflow, the SimStack framework is used to analyze the electronic and structural properties of metal halide perovskites (MHPs) with chemical formula CH<sub>3</sub>XH<sub>3</sub>PbI<sub>3</sub> (X = N, P, As, and Sb) For this, five different **WaNos** were combined: Mult-It, UnpackMol, DFT-VASP, DFT-half and DB-Generator. A table containing the total energies and structural parameters is the expected output of this protocol.
